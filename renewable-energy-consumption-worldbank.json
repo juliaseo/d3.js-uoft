@@ -1,6 +1,6 @@
-/* globals d3 */
-// dataset describing the consumption of renewable energy at world level
-// https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS
+# globals d3
+# dataset describing the consumption of renewable energy at world level
+# https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS
 
 {
     "year": "1990",
